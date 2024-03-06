@@ -1,7 +1,5 @@
 # Make Kali Linux Less Suspicious	
 
-All commands
+Switch to the "Windows" desktop in Kali. Same command will switch back
 
-
-
-#macos/dotfiles	
+`$ kali-undercover`
