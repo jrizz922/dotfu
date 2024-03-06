@@ -1,4 +1,4 @@
-# ~Combine multiple images into a video using ffmpeg~
+# Combine multiple images into a video using ffmpeg
 
 Combine multiple images into a video using ffmpeg
 
